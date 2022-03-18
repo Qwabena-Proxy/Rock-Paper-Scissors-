@@ -37,8 +37,7 @@ class RPS(BoxLayout):
     declare = self.Declare
     board = self.Board
     global tg , win , draw, lose
-    
-    self.user.text = ''    
+        
     AI_list = ['rock','paper','scissors']
     AI = rd.choice(AI_list)
     if user == AI:
