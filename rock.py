@@ -76,6 +76,7 @@ class RPS(BoxLayout):
         win +=1
         board.text = f'SCORE BOARD\nTOTAL GAME:{tg}\nWIN:{win}\nDRAW:{draw}\nLOSE:{lose}'
 
+    self.user.text = ''
     
 
 class RockApp(App):
