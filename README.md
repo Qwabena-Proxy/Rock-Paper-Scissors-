@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-
-This is a basic android game
+This is a basic rock paper scissors game
  
 # This is how it looks like 
 
