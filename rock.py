@@ -78,7 +78,7 @@ class RPS(BoxLayout):
 
     self.user.text = ''
     
-
+    
 class RockApp(App):
   def build(self):
     return RPS()
